@@ -1,0 +1,10 @@
+F:\CS234\mexicantraindominos-hextallfan-master\MTD\MTDClasses\bin\Debug\MTDClasses.dll
+F:\CS234\mexicantraindominos-hextallfan-master\MTD\MTDClasses\bin\Debug\MTDClasses.pdb
+F:\CS234\mexicantraindominos-hextallfan-master\MTD\MTDClasses\obj\Debug\MTDClasses.csprojAssemblyReference.cache
+F:\CS234\mexicantraindominos-hextallfan-master\MTD\MTDClasses\obj\Debug\MTDClasses.csproj.CoreCompileInputs.cache
+F:\CS234\mexicantraindominos-hextallfan-master\MTD\MTDClasses\obj\Debug\MTDClasses.dll
+F:\CS234\mexicantraindominos-hextallfan-master\MTD\MTDClasses\obj\Debug\MTDClasses.pdb
+F:\CS234\mexicantraindominos-hextallfan-master\MTD\MTDClasses\bin\Debug\nunit.framework.dll
+F:\CS234\mexicantraindominos-hextallfan-master\MTD\MTDClasses\bin\Debug\nunit.framework.pdb
+F:\CS234\mexicantraindominos-hextallfan-master\MTD\MTDClasses\bin\Debug\nunit.framework.xml
+F:\CS234\mexicantraindominos-hextallfan-master\MTD\MTDClasses\obj\Debug\MTDClasses.csproj.CopyComplete
