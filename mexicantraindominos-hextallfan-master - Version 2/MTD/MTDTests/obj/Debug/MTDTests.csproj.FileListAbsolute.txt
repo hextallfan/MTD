@@ -1,0 +1,12 @@
+F:\CS234\mexicantraindominos-hextallfan-master\MTD\MTDTests\bin\Debug\MTDTests.dll
+F:\CS234\mexicantraindominos-hextallfan-master\MTD\MTDTests\bin\Debug\MTDTests.pdb
+F:\CS234\mexicantraindominos-hextallfan-master\MTD\MTDTests\bin\Debug\MTDClasses.dll
+F:\CS234\mexicantraindominos-hextallfan-master\MTD\MTDTests\bin\Debug\nunit.framework.dll
+F:\CS234\mexicantraindominos-hextallfan-master\MTD\MTDTests\bin\Debug\MTDClasses.pdb
+F:\CS234\mexicantraindominos-hextallfan-master\MTD\MTDTests\bin\Debug\nunit.framework.pdb
+F:\CS234\mexicantraindominos-hextallfan-master\MTD\MTDTests\bin\Debug\nunit.framework.xml
+F:\CS234\mexicantraindominos-hextallfan-master\MTD\MTDTests\obj\Debug\MTDTests.csprojAssemblyReference.cache
+F:\CS234\mexicantraindominos-hextallfan-master\MTD\MTDTests\obj\Debug\MTDTests.csproj.CoreCompileInputs.cache
+F:\CS234\mexicantraindominos-hextallfan-master\MTD\MTDTests\obj\Debug\MTDTests.csproj.CopyComplete
+F:\CS234\mexicantraindominos-hextallfan-master\MTD\MTDTests\obj\Debug\MTDTests.dll
+F:\CS234\mexicantraindominos-hextallfan-master\MTD\MTDTests\obj\Debug\MTDTests.pdb
